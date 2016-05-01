@@ -1,0 +1,25 @@
+{
+  "name": "angular-accordion-component",
+  "version": "1.0.0",
+  "description": "Angular component for the bootstrap accordion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saanch/AngularAccordionComponent.git"
+  },
+  "keywords": [
+    "angular",
+    "component",
+    "accordion",
+    "bootstrap"
+  ],
+  "author": "Saanch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saanch/AngularAccordionComponent/issues"
+  },
+  "homepage": "https://github.com/Saanch/AngularAccordionComponent#readme"
+}

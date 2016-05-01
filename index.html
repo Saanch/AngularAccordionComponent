@@ -1,0 +1,24 @@
+<html ng-app="angularAccordionApp">
+
+<head>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="bower_components/animate.css/animate.css">
+</head>
+
+<body ng-cloak>
+    <div class="container">
+        <h1>Hello World</h1>
+        <accordion>
+            <accordion-panel heading="Panel 1">This is the body of the accordion panel 1</accordion-panel>
+            <accordion-panel heading="Panel 2">This is the body of the accordion panel 2</accordion-panel>
+        </accordion>
+    </div>
+
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="src/angularAccordionApp.js"></script>
+    <script src="src/accordion.component.js"></script>
+    <script src="src/accordionPanel.component.js"></script>
+</body>
+
+</html>
